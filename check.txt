@@ -1,3 +1,5 @@
 i am doing a new exercise
 this is step 5
+<<<<<<< HEAD
 creating a conflict 101
+creating a conflict 102
